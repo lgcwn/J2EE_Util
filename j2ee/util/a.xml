@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<Accounts>
+		<Account type="by0003">
+			<code>100001</code>
+			<pass>123</pass>
+			<name>李四</name>
+			<money>1000000.00</money>
+		</Account>
+		<Account type="hz0001">
+			<code>100002</code>
+			<pass>123</pass>
+			<name>张三</name>
+			<money>1000.00</money>
+		</Account>
+	</Accounts>
+
